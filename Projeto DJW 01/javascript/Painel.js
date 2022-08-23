@@ -1,0 +1,6 @@
+class Painel{
+    Linha;
+    Coluna;
+}
+
+
